@@ -1,0 +1,8 @@
+# Ignora i file .jar
+*.jar
+
+# Ignora i file .class
+*.class
+
+# Ignora la cartella bin
+/bin/
